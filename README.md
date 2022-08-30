@@ -46,8 +46,7 @@ https://www.tutorialspoint.com/flask/
 IMAGES 
 
 ![Screenshot (112)](https://user-images.githubusercontent.com/97788318/187326849-c5c951c5-1d12-48cf-85b6-7ef4860bebcb.png)
-![Screenshot (113)](https://user-images.githubusercontent.com/97788318/187326868-3142250f-9c25-4d94-8f06-ea80b737c051.png)
-![Screenshot (114)](https://user-images.githubusercontent.com/97788318/187326881-e8338e99-9b38-4ec7-af3e-138fefd70ba4.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/97788318/187327203-e3a0c0f1-3857-4f61-9f2c-0c8a311bcb4e.png)
 ![Screenshot (115)](https://user-images.githubusercontent.com/97788318/187326895-96e78dbb-f642-4b0c-af5d-7741409417c8.png)
 ![Screenshot (116)](https://user-images.githubusercontent.com/97788318/187326907-728b9e18-5140-49de-9f8d-640df2d3cfd2.png)
 ![Screenshot (117)](https://user-images.githubusercontent.com/97788318/187326939-f19867ce-c5aa-47ed-bc55-3f6381462694.png)
