@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.ban {
+
+    background-image: url(./images.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+    
+
+}
+.yo {
+    
+    background-image: url(./images\ \(1\).jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+.ho {
+    background-image: url(./download.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+
+.form-group{
+    margin: 0 auto;
+    border: 1px solid white;
+    height: auto;
+    padding: 10px;
+}
+footer {
+    text-align: left;
+}
