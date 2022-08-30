@@ -45,13 +45,12 @@ https://www.tutorialspoint.com/flask/
 
 IMAGES 
 
-![Screenshot (112)](https://user-images.githubusercontent.com/97788318/187324444-72e53545-82ab-4886-8956-c834dca63847.png)
-![Screenshot (113)](https://user-images.githubusercontent.com/97788318/187324657-6cf404cb-9435-492b-a47d-ef17400730ad.png)
-![Screenshot (114)](https://user-images.githubusercontent.com/97788318/187324743-ff00201c-8386-45c2-bfa2-5bdda6635f0f.png)
-![Screenshot (115)](https://user-images.githubusercontent.com/97788318/187324756-9493b8c8-cd34-4cb6-935e-547777e5ecbb.png)
-![Screenshot (116)](https://user-images.githubusercontent.com/97788318/187324774-366c5bcb-3e69-4cc3-9813-da35b17f2d3b.png)
-![Screenshot (117)](https://user-images.githubusercontent.com/97788318/187324881-6fc9ad69-849f-4aed-8549-c3c6d50f3bd7.png)
-
+![Screenshot (112)](https://user-images.githubusercontent.com/97788318/187326849-c5c951c5-1d12-48cf-85b6-7ef4860bebcb.png)
+![Screenshot (113)](https://user-images.githubusercontent.com/97788318/187326868-3142250f-9c25-4d94-8f06-ea80b737c051.png)
+![Screenshot (114)](https://user-images.githubusercontent.com/97788318/187326881-e8338e99-9b38-4ec7-af3e-138fefd70ba4.png)
+![Screenshot (115)](https://user-images.githubusercontent.com/97788318/187326895-96e78dbb-f642-4b0c-af5d-7741409417c8.png)
+![Screenshot (116)](https://user-images.githubusercontent.com/97788318/187326907-728b9e18-5140-49de-9f8d-640df2d3cfd2.png)
+![Screenshot (117)](https://user-images.githubusercontent.com/97788318/187326939-f19867ce-c5aa-47ed-bc55-3f6381462694.png)
 
 
 
